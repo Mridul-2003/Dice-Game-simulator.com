@@ -1,0 +1,21 @@
+
+body{
+    
+    background-color: rgb(255, 255, 128);
+ 
+}
+
+
+.wrapper{
+    width:70%;
+    margin:auto;
+    text-align:center;
+}
+.Dice{
+    margin:0px 50px;
+    text-align: center;
+    display:inline-block
+}
+p {
+    font-size: 1em;
+}
